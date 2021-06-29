@@ -1,4 +1,4 @@
 esta es un ejemplo de la prueba de git
 Esta linea se esta agregando para probarlo
 
-Hoy hablaremos de la historia de su vida y obra maestra
+Mañana hablaremos de su vida laboral
